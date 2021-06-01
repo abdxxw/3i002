@@ -1,0 +1,22 @@
+image: pobj
+
+stages:
+- test
+
+TME4 HashMultiSetTest:
+  script: ./scripts-ci/run.sh pobj.multiset.test.HashMultiSetTest
+
+TME4 IteratorTest:
+  script: ./scripts-ci/run.sh pobj.multiset.test.IteratorTest
+
+TME4 CollectionTest:
+  script: ./scripts-ci/run.sh pobj.multiset.test.CollectionTest
+
+TME5 HashMultiSetTest:
+  script: ./scripts-ci/run.sh pobj.multiset.test.HashMultiSetTest
+
+TME5 HashMultiSetTest2:
+  script: ./scripts-ci/run.sh pobj.multiset.test.HashMultiSetTest2
+
+TME5 HashMultiSetTest5:
+  script: ./scripts-ci/run.sh pobj.multiset.test.HashMultiSetTest3

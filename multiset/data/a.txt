@@ -1,0 +1,608 @@
+﻿
+
+
+The Project Gutenberg EBook of War and Peace, by Leo Tolstoy
+
+This eBook is for the use of anyone anywhere at no cost and with almost
+no restrictions whatsoever.  You may copy it, give it away or re-use it
+under the terms of the Project Gutenberg License included with this
+eBook or online at www.gutenberg.org
+
+
+Title: War and Peace
+
+Author: Leo Tolstoy
+
+Translators: Louise and Aylmer Maude
+
+Posting Date: January 10, 2009 [EBook #2600] 
+
+Last Updated: July 10, 2016
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK WAR AND PEACE ***
+
+
+
+
+An Anonymous Volunteer, and David Widger
+
+
+
+
+
+
+WAR AND PEACE
+
+
+By Leo Tolstoy/Tolstoi
+
+
+
+
+
+CONTENTS
+
+
+BOOK ONE: 1805
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+CHAPTER XXI
+
+CHAPTER XXII
+
+CHAPTER XXIII
+
+CHAPTER XXIV
+
+CHAPTER XXV
+
+CHAPTER XXVI
+
+CHAPTER XXVII
+
+CHAPTER XXVIII
+
+
+BOOK TWO: 1805
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+CHAPTER XXI
+
+
+BOOK THREE: 1805
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+
+BOOK FOUR: 1806
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+
+BOOK FIVE: 1806 - 07
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+CHAPTER XXI
+
+CHAPTER XXII
+
+
+BOOK SIX: 1808 - 10
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+CHAPTER XXI
+
+CHAPTER XXII
+
+CHAPTER XXIII
+
+CHAPTER XXIV
+
+CHAPTER XXV
+
+CHAPTER XXVI
+
+
+BOOK SEVEN: 1810 - 11
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+
+BOOK EIGHT: 1811 - 12
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+CHAPTER XXI
+
+CHAPTER XXII
+
+
+BOOK NINE: 1812
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+CHAPTER XXI
+
+CHAPTER XXII
+
+CHAPTER XXIII
+
+
+BOOK TEN: 1812
+
+CHAPTER I
+
+CHAPTER II
+
+CHAPTER III
+
+CHAPTER IV
+
+CHAPTER V
+
+CHAPTER VI
+
+CHAPTER VII
+
+CHAPTER VIII
+
+CHAPTER IX
+
+CHAPTER X
+
+CHAPTER XI
+
+CHAPTER XII
+
+CHAPTER XIII
+
+CHAPTER XIV
+
+CHAPTER XV
+
+CHAPTER XVI
+
+CHAPTER XVII
+
+CHAPTER XVIII
+
+CHAPTER XIX
+
+CHAPTER XX
+
+
+"Yes, I was a fool! I still believed in people, loved them, and
+sacrificed myself. But only the base, the vile succeed! I know who has
+been intriguing!"
+
+The princess wished to rise, but the prince held her by the hand. She
+had the air of one who has suddenly lost faith in the whole human race.
+She gave her companion an angry glance.
+
+"There is still time, my dear. You must remember, Catiche, that it was
+all done casually in a moment of anger, of illness, and was afterwards
+forgotten. Our duty, my dear, is to rectify his mistake, to ease his
+last moments by not letting him commit this injustice, and not to let
+him die feeling that he is rendering unhappy those who..."
+
+"Who sacrificed everything for him," chimed in the princess, who would
+again have risen had not the prince still held her fast, "though he
+never could appreciate it. No, mon cousin," she added with a sigh, "I
+shall always remember that in this world one must expect no reward, that
+in this world there is neither honor nor justice. In this world one has
+to be cunning and cruel."
+
+"Now come, come! Be reasonable. I know your excellent heart."
+
+"No, I have a wicked heart."
+
+"I know your heart," repeated the prince. "I value your friendship and
+wish you to have as good an opinion of me. Don't upset yourself, and let
+us talk sensibly while there is still time, be it a day or be it but an
+hour.... Tell me all you know about the will, and above all where it is.
+You must know. We will take it at once and show it to the count. He has,
+no doubt, forgotten it and will wish to destroy it. You understand that
+my sole desire is conscientiously to carry out his wishes; that is my
+only reason for being here. I came simply to help him and you."
+
+"Now I see it all! I know who has been intriguing—I know!" cried the
+princess.
+
+"That's not the point, my dear."
+
+"It's that protégé of yours, that sweet Princess Drubetskáya, that Anna
+Mikháylovna whom I would not take for a housemaid... the infamous, vile
+woman!"
+
+"Do not let us lose any time..."
+
+"Ah, don't talk to me! Last winter she wheedled herself in here and told
+the count such vile, disgraceful things about us, especially about
+Sophie—I can't repeat them—that it made the count quite ill and he would
+not see us for a whole fortnight. I know it was then he wrote this vile,
+infamous paper, but I thought the thing was invalid."
+
+"We've got to it at last—why did you not tell me about it sooner?"
+
+"It's in the inlaid portfolio that he keeps under his pillow," said the
+princess, ignoring his question. "Now I know! Yes; if I have a sin, a
+great sin, it is hatred of that vile woman!" almost shrieked the
+princess, now quite changed. "And what does she come worming herself in
+here for? But I will give her a piece of my mind. The time will come!"
+
+
+
+
+
+CHAPTER XXII
+
+While these conversations were going on in the reception room and the
+princess' room, a carriage containing Pierre (who had been sent for) and
+Anna Mikháylovna (who found it necessary to accompany him) was driving
+into the court of Count Bezúkhov's house. As the wheels rolled softly
+over the straw beneath the windows, Anna Mikháylovna, having turned with
+words of comfort to her companion, realized that he was asleep in his
+corner and woke him up. Rousing himself, Pierre followed Anna
+Mikháylovna out of the carriage, and only then began to think of the
+interview with his dying father which awaited him. He noticed that they
+had not come to the front entrance but to the back door. While he was
+getting down from the carriage steps two men, who looked like
+tradespeople, ran hurriedly from the entrance and hid in the shadow of
+the wall. Pausing for a moment, Pierre noticed several other men of the
+same kind hiding in the shadow of the house on both sides. But neither
+Anna Mikháylovna nor the footman nor the coachman, who could not help
+seeing these people, took any notice of them. "It seems to be all
+right," Pierre concluded, and followed Anna Mikháylovna. She hurriedly
+ascended the narrow dimly lit stone staircase, calling to Pierre, who
+was lagging behind, to follow. Though he did not see why it was
+necessary for him to go to the count at all, still less why he had to go
+by the back stairs, yet judging by Anna Mikháylovna's air of assurance
+and haste, Pierre concluded that it was all absolutely necessary.
+Halfway up the stairs they were almost knocked over by some men who,
+carrying pails, came running downstairs, their boots clattering. These
+men pressed close to the wall to let Pierre and Anna Mikháylovna pass
+and did not evince the least surprise at seeing them there.
+
+"Is this the way to the princesses' apartments?" asked Anna Mikháylovna
+of one of them.
+
+"Yes," replied a footman in a bold loud voice, as if anything were now
+permissible; "the door to the left, ma'am."
+
+"Perhaps the count did not ask for me," said Pierre when he reached the
+landing. "I'd better go to my own room."
+
+Anna Mikháylovna paused and waited for him to come up.
+
+"Ah, my friend!" she said, touching his arm as she had done her son's
+when speaking to him that afternoon, "believe me I suffer no less than
+you do, but be a man!"
+
+"But really, hadn't I better go away?" he asked, looking kindly at her
+over his spectacles.

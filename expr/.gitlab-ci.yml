@@ -1,0 +1,43 @@
+image: pobj
+
+stages:
+- test
+
+TestQ1:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ1
+
+TestQ2:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ2
+
+TestQ3:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ3
+
+TestQ4:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ4
+
+TestQ5:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ5
+
+TestQ6:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ6
+
+TestQ7:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ7
+
+TestQ8:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ8
+
+TestQ9:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ9
+
+TestQ10:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ10
+
+TestQ11:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ11
+
+TestQ12:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ12
+
+TestQ13:
+  script: ./scripts-ci/run.sh pobj.expr.test.TestQ13

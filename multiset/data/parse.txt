@@ -1,0 +1,3 @@
+chaîne1:12
+chaîne2:49
+chaîne3:13

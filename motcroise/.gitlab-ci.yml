@@ -1,0 +1,50 @@
+image: pobj
+
+stages:
+- test
+
+
+TME1 CaseTest:
+  script: ./scripts-ci/run.sh pobj.motx.tme1.test.CaseTest
+
+TME1 GrilleTest:
+  script: ./scripts-ci/run.sh pobj.motx.tme1.test.GrilleTest
+
+TME1 GrillePlacesTest:
+  script: ./scripts-ci/run.sh pobj.motx.tme1.test.GrillePlacesTest
+
+
+TME2 DictionnaireTest:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.DictionnaireTest
+  
+TME2 GrillePotentielTest:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.GrillePotentielTest
+
+TME2 DictionnaireTest2:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.DictionnaireTest2
+  
+TME2 GrillePotentielTest2:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.GrillePotentielTest2
+  
+TME2 GrillePotentielTest3:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.GrillePotentielTest3
+
+TME2 GrillePotentielTest4:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.GrillePotentielTest4
+
+TME2 GrillePotentielTest5:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.GrillePotentielTest5
+
+TME2 GrillePotentielTest6:
+  script: ./scripts-ci/run.sh pobj.motx.tme2.test.GrillePotentielTest6
+ 
+
+TME3 GrilleSolverTestFirst1:
+  script: ./scripts-ci/run.sh pobj.motx.tme3.test.GrilleSolverTestFirst1
+  
+TME3 GrilleSolverTestMin1:
+  script: ./scripts-ci/run.sh pobj.motx.tme3.test.GrilleSolverTestMin1
+  
+TME3 GrilleSolverTestMin2:
+  script: ./scripts-ci/run.sh pobj.motx.tme3.test.GrilleSolverTestMin2
+
